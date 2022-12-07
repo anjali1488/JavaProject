@@ -6,7 +6,7 @@ public class BankMain{
 	
 	public static void main(String[] args)
 	{
-	
+System.out.println("Editing file for Git");	
 	ICICI obj1 = new ICICI();
 	Scanner s1 = new Scanner(System.in);
 	obj1.setBalance(1000);
